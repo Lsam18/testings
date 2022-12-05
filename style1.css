@@ -1,0 +1,60 @@
+.header-default {
+    border-radius: 1%;
+    background: url("images/production ID_4907336.mp4");
+            background-size: cover;
+
+    
+  }
+  
+  .header-home {
+    background: transparent;
+  /*box-shadow*/
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+            background: url("images/production ID_4907336.mp4");
+            background-size: cover;
+
+            
+            
+  }
+  
+  .header-home .navigation a {
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-radius: 23%;
+  }
+  
+  .top-slider {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 750px;
+  }
+  
+  .slider {
+    height: 100%;
+  }
+  
+  .services
+  {
+    margin-top: 70px;
+    margin-bottom: 120px;
+  }
+  .pricing01
+  {
+    margin-top: 110px;
+    margin-bottom: 80px;
+  }
+.contact2
+{
+  padding-top: 200px;
+}
+.h2 .team20
+{
+  color: white;
+}
+.conb
+{
+  font-weight: 500;
+}
